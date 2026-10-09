@@ -1,0 +1,11 @@
+CUSTOMER POLICY
+
+1. Customers are categorized into SMB, Corporate, and Enterprise segments.
+
+2. Customer segmentation is used for business analysis and reporting.
+
+3. Customer information should only be used for authorized business purposes.
+
+4. Customer performance can be analyzed using revenue, order volume, and purchasing behavior.
+
+5. Enterprise customers may have specific commercial agreements that affect pricing and discounts.

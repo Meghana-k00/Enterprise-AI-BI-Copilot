@@ -1,0 +1,6 @@
+customer_id,customer_name,segment,country,region
+C001,Arjun Retail,Corporate,India,South
+C002,Global Traders,Enterprise,India,North
+C003,Tech Solutions,Corporate,India,West
+C004,Prime Stores,SMB,India,East
+C005,Vertex Systems,Enterprise,India,North

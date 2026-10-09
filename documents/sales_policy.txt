@@ -1,0 +1,11 @@
+SALES POLICY
+
+1. Sales revenue is calculated using the final sales amount after applicable discounts.
+
+2. Revenue is recognized based on the order date.
+
+3. Cancelled orders must not be included in revenue calculations.
+
+4. Sales performance can be analyzed by region, product, customer segment, and time period.
+
+5. Monthly sales performance is evaluated using the total revenue generated during the calendar month.

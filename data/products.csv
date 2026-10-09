@@ -1,0 +1,5 @@
+product_id,product_name,category,subcategory,cost
+P001,Laptop Pro,Electronics,Computers,850
+P002,Office Monitor,Electronics,Monitors,550
+P003,Wireless Keyboard,Accessories,Keyboards,300
+P004,Office Chair,Furniture,Chairs,120
