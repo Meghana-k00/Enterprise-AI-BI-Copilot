@@ -6,3 +6,6 @@ __pycache__/
 .pytest_cache/
 .env.*
 chroma_db/
+# Local configuration and secrets
+!.env.example
+.streamlit/secrets.toml
