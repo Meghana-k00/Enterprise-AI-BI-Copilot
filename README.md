@@ -115,3 +115,14 @@ This project demonstrates the integration of language models with structured bus
 
 **Author:** Meghana Kuppani  
 **Repository:** https://github.com/Meghana-k00/Enterprise-AI-BI-Copilot
+
+## Application Screenshots
+
+### SQL — Business Data Queries
+![SQL Workflow](screenshots/sql-workflow.png)
+
+### RAG — Policy Document Retrieval
+![RAG Workflow](screenshots/rag-workflow.png)
+
+### Python Analytics — Revenue Trends
+![Analytics Workflow](screenshots/analytics-workflow.png)
