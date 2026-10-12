@@ -45,10 +45,10 @@ def ask_question(request: QuestionRequest):
     "sql_query": result.get("sql_query", ""),
     "sql_results": result.get("sql_results", []),
     "messages": result.get("messages", [])
-}
-    except Exception as e:
+}   
+    except Exception:
         traceback.print_exc()
         raise HTTPException(
             status_code=500,
-            detail=f"Unable to process the request: {str(e)}"
+            detail="Unable to process the request. Please check the server logs."
         )
